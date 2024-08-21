@@ -8,3 +8,18 @@ function addnumber( num1 ,num2){
      return vai;
 }
 addnumber(2,3);
+
+const Form=document.querySelector('.form');
+const Name=document.getElementById('name');
+const Email=document.getElementById('email');
+const Btn=document.querySelector('.Btn');
+
+Form.addEventListener('submit',onSubmit);
+
+function onSubmit(e){
+     e.preventDefault();
+     if(Name.value===''||Email.value===''){
+          console.log("there is one who trying to access a web without filling the requires creditial")
+
+     }
+}
