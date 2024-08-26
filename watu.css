@@ -1,0 +1,14 @@
+.form{
+    display: contents;
+    text-align: center;
+}
+h1{
+    display: flex;
+    text-align: center;
+    text-decoration: overline;
+text-transform: uppercase;
+}
+input text phone{
+    text-transform: uppercase;
+    height: 20px;
+}
