@@ -12,3 +12,8 @@ input text phone{
     text-transform: uppercase;
     height: 20px;
 }
+body{
+    background-color: white;
+    text-indent: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}

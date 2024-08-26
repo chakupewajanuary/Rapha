@@ -63,4 +63,5 @@ console.log('mdogo mdogo nitajua tu one day yes');
 console.clear();
 let yes;
 yes="waliochelewa pita mbele"
-alert('man of the people enter his offisssi to look the demands of the people')
+alert('man of the people enter his offisssi to look the demands of the people');
+alert('matatizo hayaishi ila yanabadirika rangi tu');
